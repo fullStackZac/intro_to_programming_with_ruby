@@ -1,14 +1,12 @@
 =begin
 
 Look at the following programs:
-=end
 x = 0
 3.times do
   x += 1
 end
 puts x
 
-=begin
 and...
 
 y = 0
